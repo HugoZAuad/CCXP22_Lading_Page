@@ -23,6 +23,9 @@ function countDown(){
 
 }
 
+document.getElementById("timer").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
 function formatoTempo(tempo){
     return tempo < 10? `0${tempo}` : tempo;
 }
