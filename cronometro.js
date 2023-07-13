@@ -23,9 +23,6 @@ function countDown(){
 
 }
 
-document.getElementById("timer").innerHTML = dia + "D" + hora + "H"
-  + minuto + "M" + segundo + "S";
-
 function formatoTempo(tempo){
     return tempo < 10? `0${tempo}` : tempo;
 }
