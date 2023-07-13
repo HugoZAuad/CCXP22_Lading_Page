@@ -80,27 +80,11 @@ header{
     top: 103px;
 }
 
-#D{
-    position: absolute;
-    width: 239px;
-    height: 175px;
-    left: 905px;
-    top: 103px;
-}
-
 #hora{
     position: absolute;
     width: 270px;
     height: 175px;
     left: 1027px;
-    top: 103px;
-}
-
-#H{
-    position: absolute;
-    width: 239px;
-    height: 175px;
-    left: 1140px;
     top: 103px;
 }
 
@@ -112,27 +96,11 @@ header{
     top: 104px;
 }
 
-#MM{
-    position: absolute;
-    width: 239px;
-    height: 175px;
-    left: 1385px;
-    top: 103px;
-}
-
 #segundo{
     position: absolute;
     width: 239px;
     height: 175px;
     left: 1525px;
-    top: 103px;
-}
-
-#S{
-    position: absolute;
-    width: 239px;
-    height: 175px;
-    left: 1625px;
     top: 103px;
 }
 
